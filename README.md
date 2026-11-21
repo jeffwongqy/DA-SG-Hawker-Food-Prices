@@ -1,5 +1,6 @@
 # How Do Hawker Food Prices Differ Across Food Categories and Regions in Singapore?
-TBC
+
+<img width="2048" height="1536" alt="hawker_pic" src="https://github.com/user-attachments/assets/462e4511-b37f-413a-af6c-7a4da8c096da" />
 
 ## Analysis Questions
 1. Which food category has the highest average price?
