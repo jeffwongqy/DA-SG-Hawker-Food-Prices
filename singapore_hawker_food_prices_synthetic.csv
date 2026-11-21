@@ -1,0 +1,501 @@
+Record_ID,Dish,Food_Category,Hawker_Centre,Region,Price_SGD,Portion_Size_Index,Customer_Rating
+1,Fishball Noodles,Rice & Noodles,Tampines Round Market,East,5.09,1.17,2.8
+2,Prata (2 pieces),Indian Food,Fernvale Hawker Centre,North-East,2.93,0.94,3.9
+3,Kueh Platter,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,4.06,1.01,4.5
+4,Fried Fish Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,5.99,1.07,3.4
+5,Kueh Platter,Snacks & Desserts,Bukit Timah Market,West,3.38,0.88,4.6
+6,Mee Soto,Malay Food,Fernvale Hawker Centre,North-East,4.27,0.94,4.2
+7,Roti John,Indian Food,Amoy Street Food Centre,Central,5.63,1.39,3.7
+8,Laksa,Rice & Noodles,Serangoon Garden Market,North-East,4.52,1.11,4.5
+9,Thosai,Indian Food,Hong Lim Market,Central,2.81,1.12,4.3
+10,Roti John,Indian Food,Hong Lim Market,Central,4.59,1.1,3.5
+11,Prata (2 pieces),Indian Food,Bukit Panjang Hawker Centre,West,2.94,1.16,4.0
+12,Fried Fish Set,Meat & Seafood,Bukit Timah Market,West,6.54,1.05,4.2
+13,Thosai,Indian Food,Bedok Interchange Hawker Centre,East,2.79,0.89,3.7
+14,Ice Kachang,Snacks & Desserts,Marsiling Mall Hawker Centre,North,2.44,1.17,3.0
+15,Hokkien Mee,Rice & Noodles,Tampines Round Market,East,5.48,1.13,4.3
+16,Mee Soto,Malay Food,Bedok Interchange Hawker Centre,East,4.3,1.15,3.8
+17,Fresh Lime Juice,Drinks,Bukit Timah Market,West,1.9,0.54,4.0
+18,Cai Fan,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.57,1.03,4.2
+19,Satay Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,6.62,0.93,3.7
+20,Tau Huay,Snacks & Desserts,Geylang Serai Market,East,2.42,0.92,3.9
+21,Sugarcane Juice,Drinks,Amoy Street Food Centre,Central,3.28,0.43,3.7
+22,Popiah,Snacks & Desserts,Tampines Round Market,East,1.5,0.74,3.2
+23,Fish Soup,Meat & Seafood,Jurong West Hawker Centre,West,5.41,0.93,4.6
+24,Teh,Drinks,Chong Pang Market,North,2.28,0.28,3.8
+25,Hokkien Mee,Rice & Noodles,Amoy Street Food Centre,Central,5.9,0.69,4.1
+26,Teh,Drinks,Jurong West Hawker Centre,West,1.41,0.2,3.9
+27,Roti John,Indian Food,Tampines Round Market,East,5.11,1.29,3.8
+28,Prata (2 pieces),Indian Food,Bedok Interchange Hawker Centre,East,3.02,1.04,4.6
+29,Mee Goreng,Rice & Noodles,Yishun Park Hawker Centre,North,5.95,0.79,3.5
+30,Laksa,Rice & Noodles,Chong Pang Market,North,4.75,0.75,4.2
+31,Roast Duck Rice,Meat & Seafood,Maxwell Food Centre,Central,6.19,1.06,4.4
+32,Milo Dinosaur,Drinks,Yishun Park Hawker Centre,North,5.39,0.52,3.4
+33,Mee Goreng Indian,Indian Food,Fernvale Hawker Centre,North-East,4.52,0.93,3.6
+34,Bak Chor Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,6.19,1.03,3.8
+35,Roast Duck Rice,Meat & Seafood,Serangoon Garden Market,North-East,6.23,0.99,4.9
+36,Fishball Noodles,Rice & Noodles,Bukit Panjang Hawker Centre,West,5.14,0.91,3.2
+37,Cai Fan,Rice & Noodles,Maxwell Food Centre,Central,6.53,0.85,4.4
+38,Mee Goreng Indian,Indian Food,Bukit Timah Market,West,5.61,1.07,3.8
+39,Teh,Drinks,Chong Pang Market,North,2.09,0.37,3.2
+40,Sugarcane Juice,Drinks,Bukit Panjang Hawker Centre,West,2.61,0.73,4.0
+41,Cai Fan,Rice & Noodles,Bukit Timah Market,West,5.65,1.04,3.7
+42,Nasi Briyani,Indian Food,Hougang Hainanese Village Centre,North-East,6.33,1.28,4.0
+43,Chicken Rice,Rice & Noodles,Bukit Panjang Hawker Centre,West,5.57,1.31,3.8
+44,Cai Fan,Rice & Noodles,Bedok Interchange Hawker Centre,East,5.85,0.8,3.4
+45,Fresh Lime Juice,Drinks,Bedok Interchange Hawker Centre,East,2.6,0.42,4.1
+46,Milo Dinosaur,Drinks,Maxwell Food Centre,Central,3.91,0.57,2.8
+47,Roast Duck Rice,Meat & Seafood,Fernvale Hawker Centre,North-East,5.76,0.84,3.7
+48,Satay Bee Hoon,Malay Food,Hong Lim Market,Central,4.99,1.01,3.6
+49,Fresh Lime Juice,Drinks,Marsiling Mall Hawker Centre,North,2.85,0.69,3.8
+50,Roti John,Indian Food,Bukit Panjang Hawker Centre,West,4.85,1.04,4.0
+51,Kueh Platter,Snacks & Desserts,Hong Lim Market,Central,4.0,1.45,4.9
+52,Laksa,Rice & Noodles,Hong Lim Market,Central,5.16,0.74,3.6
+53,Kueh Platter,Snacks & Desserts,Amoy Street Food Centre,Central,3.38,0.88,2.7
+54,Fishball Noodles,Rice & Noodles,Yishun Park Hawker Centre,North,3.81,0.9,3.4
+55,Wanton Mee,Rice & Noodles,Geylang Serai Market,East,3.65,1.38,3.2
+56,Kopi,Drinks,Bukit Panjang Hawker Centre,West,2.99,0.97,3.3
+57,Roti John,Indian Food,Hougang Hainanese Village Centre,North-East,6.17,0.82,3.8
+58,Laksa,Rice & Noodles,Bukit Panjang Hawker Centre,West,5.28,0.93,3.8
+59,Thosai,Indian Food,Amoy Street Food Centre,Central,3.18,1.04,3.6
+60,Chicken Rice,Rice & Noodles,Hougang Hainanese Village Centre,North-East,5.21,1.03,4.1
+61,Fresh Lime Juice,Drinks,Fernvale Hawker Centre,North-East,2.08,0.51,3.8
+62,Kopi,Drinks,Marsiling Mall Hawker Centre,North,2.82,0.52,3.5
+63,Chicken Rice,Rice & Noodles,Chong Pang Market,North,3.78,1.21,4.0
+64,Nasi Briyani,Indian Food,Fernvale Hawker Centre,North-East,4.92,1.17,4.1
+65,Cai Fan,Rice & Noodles,Bukit Timah Market,West,4.97,1.01,3.7
+66,Ice Kachang,Snacks & Desserts,Bedok Interchange Hawker Centre,East,2.94,1.03,4.7
+67,Kueh Platter,Snacks & Desserts,Fernvale Hawker Centre,North-East,3.66,1.05,3.7
+68,Fried Fish Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,6.76,1.31,3.1
+69,Nasi Briyani,Indian Food,Chong Pang Market,North,5.96,0.81,3.7
+70,BBQ Chicken Rice,Meat & Seafood,Geylang Serai Market,East,5.98,1.31,4.5
+71,Thosai,Indian Food,Fernvale Hawker Centre,North-East,3.34,1.15,3.7
+72,Kueh Platter,Snacks & Desserts,Tampines Round Market,East,3.15,1.18,3.3
+73,Mee Rebus,Malay Food,Tampines Round Market,East,4.65,1.21,4.3
+74,Kueh Platter,Snacks & Desserts,Geylang Serai Market,East,4.08,0.72,3.9
+75,Milo Dinosaur,Drinks,Bukit Timah Market,West,4.48,0.56,3.5
+76,Ice Kachang,Snacks & Desserts,Bukit Panjang Hawker Centre,West,3.02,0.78,3.5
+77,Nasi Briyani,Indian Food,Bedok Interchange Hawker Centre,East,6.85,1.11,2.6
+78,Mee Goreng,Rice & Noodles,Tampines Round Market,East,5.15,1.07,4.8
+79,Cai Fan,Rice & Noodles,Serangoon Garden Market,North-East,5.23,0.72,4.7
+80,Sugarcane Juice,Drinks,Hougang Hainanese Village Centre,North-East,3.1,0.35,4.3
+81,Chwee Kueh,Snacks & Desserts,Chong Pang Market,North,3.15,1.05,3.4
+82,Teh,Drinks,Serangoon Garden Market,North-East,1.75,0.52,4.4
+83,Mee Goreng Indian,Indian Food,Fernvale Hawker Centre,North-East,6.01,0.87,3.4
+84,Fried Fish Set,Meat & Seafood,Chong Pang Market,North,7.05,1.0,4.6
+85,Chicken Rice,Rice & Noodles,Geylang Serai Market,East,4.96,1.42,3.8
+86,Milo Dinosaur,Drinks,Maxwell Food Centre,Central,4.89,0.37,4.0
+87,Fishball Noodles,Rice & Noodles,Fernvale Hawker Centre,North-East,3.74,0.71,3.5
+88,Tau Huay,Snacks & Desserts,Maxwell Food Centre,Central,2.69,1.05,3.1
+89,Satay Set,Meat & Seafood,Bukit Timah Market,West,6.69,1.08,4.3
+90,Kopi,Drinks,Geylang Serai Market,East,1.47,0.47,4.3
+91,Satay Bee Hoon,Malay Food,Bukit Panjang Hawker Centre,West,5.04,0.97,4.0
+92,Char Kway Teow,Rice & Noodles,Bukit Timah Market,West,4.74,1.09,3.8
+93,Chicken Rice,Rice & Noodles,Maxwell Food Centre,Central,3.55,0.77,3.1
+94,Char Kway Teow,Rice & Noodles,Chong Pang Market,North,4.56,1.13,3.7
+95,Wanton Mee,Rice & Noodles,Geylang Serai Market,East,5.46,0.99,4.6
+96,Popiah,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,2.01,0.89,3.1
+97,Char Kway Teow,Rice & Noodles,Maxwell Food Centre,Central,5.87,1.31,3.1
+98,Bak Chor Mee,Rice & Noodles,Serangoon Garden Market,North-East,4.87,1.09,3.8
+99,Thosai,Indian Food,Tampines Round Market,East,2.71,0.9,3.3
+100,Mee Goreng,Rice & Noodles,Hougang Hainanese Village Centre,North-East,5.33,0.97,4.1
+101,Thosai,Indian Food,Maxwell Food Centre,Central,3.13,0.73,4.5
+102,Milo Dinosaur,Drinks,Yishun Park Hawker Centre,North,4.22,0.52,3.8
+103,Satay Bee Hoon,Malay Food,Fernvale Hawker Centre,North-East,6.9,1.01,4.0
+104,Roti John,Indian Food,Maxwell Food Centre,Central,4.8,1.06,3.9
+105,Milo Dinosaur,Drinks,Serangoon Garden Market,North-East,2.52,0.2,3.3
+106,Satay Set,Meat & Seafood,Bukit Timah Market,West,6.81,1.35,4.5
+107,Fishball Noodles,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.29,0.95,4.0
+108,Nasi Lemak,Malay Food,Bedok Interchange Hawker Centre,East,4.38,1.19,3.3
+109,Mee Goreng Indian,Indian Food,Tampines Round Market,East,5.25,1.26,4.0
+110,Fish Soup,Meat & Seafood,Hong Lim Market,Central,6.31,0.97,3.5
+111,Cai Fan,Rice & Noodles,Yishun Park Hawker Centre,North,5.23,1.2,4.1
+112,Kueh Platter,Snacks & Desserts,Maxwell Food Centre,Central,4.15,0.94,4.4
+113,Hokkien Mee,Rice & Noodles,Geylang Serai Market,East,3.81,0.73,4.7
+114,Chicken Rice,Rice & Noodles,Bedok Interchange Hawker Centre,East,4.13,0.73,2.3
+115,Nasi Briyani,Indian Food,Bukit Timah Market,West,6.28,0.9,4.2
+116,Fresh Lime Juice,Drinks,Hong Lim Market,Central,2.66,0.47,3.9
+117,Satay Bee Hoon,Malay Food,Chong Pang Market,North,5.93,0.88,4.4
+118,Nasi Briyani,Indian Food,Bukit Panjang Hawker Centre,West,5.37,0.84,4.6
+119,Nasi Padang,Malay Food,Amoy Street Food Centre,Central,6.06,1.26,4.0
+120,Thosai,Indian Food,Amoy Street Food Centre,Central,4.37,0.93,3.4
+121,Cai Fan,Rice & Noodles,Bukit Panjang Hawker Centre,West,3.78,1.11,3.6
+122,Char Kway Teow,Rice & Noodles,Jurong West Hawker Centre,West,3.44,0.86,3.0
+123,Kueh Platter,Snacks & Desserts,Bukit Panjang Hawker Centre,West,3.38,0.95,3.8
+124,Mee Soto,Malay Food,Bedok Interchange Hawker Centre,East,3.94,1.13,4.3
+125,Sugarcane Juice,Drinks,Bukit Timah Market,West,2.69,0.82,3.9
+126,Roti John,Indian Food,Fernvale Hawker Centre,North-East,4.56,0.81,3.2
+127,Nasi Lemak,Malay Food,Fernvale Hawker Centre,North-East,3.97,0.99,4.1
+128,Mee Goreng Indian,Indian Food,Tampines Round Market,East,4.6,1.16,4.3
+129,Bak Chor Mee,Rice & Noodles,Amoy Street Food Centre,Central,6.21,1.03,3.1
+130,Sugarcane Juice,Drinks,Serangoon Garden Market,North-East,2.72,0.29,4.0
+131,Popiah,Snacks & Desserts,Bukit Panjang Hawker Centre,West,3.31,0.95,4.1
+132,Mee Soto,Malay Food,Fernvale Hawker Centre,North-East,3.8,0.95,3.3
+133,Hokkien Mee,Rice & Noodles,Amoy Street Food Centre,Central,4.59,0.85,4.0
+134,Chwee Kueh,Snacks & Desserts,Fernvale Hawker Centre,North-East,2.26,1.04,4.9
+135,Milo Dinosaur,Drinks,Tampines Round Market,East,2.53,0.22,3.7
+136,Fish Soup,Meat & Seafood,Jurong West Hawker Centre,West,6.53,1.04,2.9
+137,Cai Fan,Rice & Noodles,Serangoon Garden Market,North-East,5.68,0.89,3.5
+138,Ice Kachang,Snacks & Desserts,Chong Pang Market,North,3.5,1.08,3.0
+139,Milo Dinosaur,Drinks,Amoy Street Food Centre,Central,4.0,0.2,4.1
+140,Fishball Noodles,Rice & Noodles,Hong Lim Market,Central,4.02,1.13,4.0
+141,Teh,Drinks,Marsiling Mall Hawker Centre,North,1.51,0.46,4.0
+142,Mee Soto,Malay Food,Chong Pang Market,North,4.81,0.9,3.7
+143,Mee Rebus,Malay Food,Bedok Interchange Hawker Centre,East,3.03,1.29,5.0
+144,Cai Fan,Rice & Noodles,Bukit Timah Market,West,3.54,0.94,3.7
+145,Mee Goreng Indian,Indian Food,Bukit Panjang Hawker Centre,West,5.38,1.09,3.1
+146,Mee Goreng,Rice & Noodles,Fernvale Hawker Centre,North-East,6.38,1.03,3.7
+147,Mee Goreng Indian,Indian Food,Maxwell Food Centre,Central,4.23,1.03,3.7
+148,Nasi Lemak,Malay Food,Yishun Park Hawker Centre,North,4.39,1.3,3.3
+149,Fish Soup,Meat & Seafood,Yishun Park Hawker Centre,North,5.44,1.03,4.6
+150,Chicken Rice,Rice & Noodles,Hougang Hainanese Village Centre,North-East,3.45,1.0,3.4
+151,Fresh Lime Juice,Drinks,Yishun Park Hawker Centre,North,1.39,0.2,4.2
+152,Teh,Drinks,Yishun Park Hawker Centre,North,1.2,0.59,4.0
+153,Chicken Rice,Rice & Noodles,Chong Pang Market,North,5.04,1.06,5.0
+154,Cai Fan,Rice & Noodles,Amoy Street Food Centre,Central,5.4,0.97,4.3
+155,Kueh Platter,Snacks & Desserts,Fernvale Hawker Centre,North-East,3.21,0.92,3.6
+156,Fresh Lime Juice,Drinks,Amoy Street Food Centre,Central,3.82,0.37,3.7
+157,Ice Kachang,Snacks & Desserts,Fernvale Hawker Centre,North-East,3.67,0.59,3.4
+158,Prata (2 pieces),Indian Food,Marsiling Mall Hawker Centre,North,1.29,0.83,3.4
+159,Bak Chor Mee,Rice & Noodles,Fernvale Hawker Centre,North-East,5.39,0.81,3.9
+160,BBQ Chicken Rice,Meat & Seafood,Bedok Interchange Hawker Centre,East,4.97,0.84,4.2
+161,Roti John,Indian Food,Marsiling Mall Hawker Centre,North,4.99,1.13,3.3
+162,Satay Set,Meat & Seafood,Maxwell Food Centre,Central,7.21,0.78,3.0
+163,Satay Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,6.39,0.98,4.5
+164,Ice Kachang,Snacks & Desserts,Serangoon Garden Market,North-East,2.08,0.83,4.7
+165,Chwee Kueh,Snacks & Desserts,Marsiling Mall Hawker Centre,North,2.26,0.8,4.1
+166,Sugarcane Juice,Drinks,Maxwell Food Centre,Central,3.21,0.42,4.1
+167,Fishball Noodles,Rice & Noodles,Hong Lim Market,Central,5.37,0.71,2.7
+168,Mee Goreng,Rice & Noodles,Serangoon Garden Market,North-East,5.82,0.82,2.9
+169,Roti John,Indian Food,Maxwell Food Centre,Central,6.52,1.09,3.7
+170,Kueh Platter,Snacks & Desserts,Bukit Panjang Hawker Centre,West,3.51,0.95,3.3
+171,Milo Dinosaur,Drinks,Geylang Serai Market,East,4.34,0.28,4.4
+172,Fresh Lime Juice,Drinks,Fernvale Hawker Centre,North-East,2.84,0.67,4.2
+173,Mee Soto,Malay Food,Chong Pang Market,North,4.72,0.68,3.9
+174,Hokkien Mee,Rice & Noodles,Bedok Interchange Hawker Centre,East,4.27,1.3,4.9
+175,Tau Huay,Snacks & Desserts,Marsiling Mall Hawker Centre,North,2.88,1.0,4.0
+176,Teh,Drinks,Geylang Serai Market,East,2.16,0.46,3.2
+177,Bak Chor Mee,Rice & Noodles,Hong Lim Market,Central,7.02,1.16,3.9
+178,Chicken Rice,Rice & Noodles,Fernvale Hawker Centre,North-East,4.58,0.96,3.3
+179,Mee Goreng,Rice & Noodles,Chong Pang Market,North,4.19,1.09,4.1
+180,Char Kway Teow,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.92,1.18,4.5
+181,Kueh Platter,Snacks & Desserts,Bukit Panjang Hawker Centre,West,2.95,0.8,4.1
+182,Bak Chor Mee,Rice & Noodles,Geylang Serai Market,East,6.44,1.2,3.8
+183,Popiah,Snacks & Desserts,Bukit Timah Market,West,2.64,0.96,3.6
+184,Prata (2 pieces),Indian Food,Yishun Park Hawker Centre,North,2.47,0.89,4.1
+185,Nasi Padang,Malay Food,Marsiling Mall Hawker Centre,North,6.18,0.79,3.6
+186,Satay Bee Hoon,Malay Food,Bedok Interchange Hawker Centre,East,4.84,0.62,2.9
+187,Nasi Padang,Malay Food,Jurong West Hawker Centre,West,5.92,1.22,2.4
+188,Fried Fish Set,Meat & Seafood,Fernvale Hawker Centre,North-East,7.56,0.8,3.7
+189,Popiah,Snacks & Desserts,Bukit Panjang Hawker Centre,West,2.29,1.26,4.9
+190,Ice Kachang,Snacks & Desserts,Serangoon Garden Market,North-East,4.29,1.01,4.9
+191,Sugarcane Juice,Drinks,Jurong West Hawker Centre,West,2.74,1.02,4.4
+192,Satay Set,Meat & Seafood,Yishun Park Hawker Centre,North,7.63,0.93,3.6
+193,Hokkien Mee,Rice & Noodles,Amoy Street Food Centre,Central,5.53,1.0,4.1
+194,Fried Fish Set,Meat & Seafood,Chong Pang Market,North,5.24,1.12,3.4
+195,Economic Bee Hoon,Rice & Noodles,Amoy Street Food Centre,Central,3.9,0.88,4.4
+196,Carrot Cake,Snacks & Desserts,Bukit Timah Market,West,3.74,0.89,3.9
+197,Wanton Mee,Rice & Noodles,Maxwell Food Centre,Central,5.32,1.01,2.9
+198,Roti John,Indian Food,Bukit Timah Market,West,4.99,0.96,3.8
+199,Roast Duck Rice,Meat & Seafood,Bukit Panjang Hawker Centre,West,7.12,0.8,3.3
+200,Teh,Drinks,Serangoon Garden Market,North-East,2.04,0.67,3.7
+201,Prata (2 pieces),Indian Food,Hong Lim Market,Central,2.61,0.9,3.7
+202,Kueh Platter,Snacks & Desserts,Maxwell Food Centre,Central,3.65,1.19,3.5
+203,Nasi Briyani,Indian Food,Geylang Serai Market,East,5.1,1.07,4.0
+204,Roast Duck Rice,Meat & Seafood,Hong Lim Market,Central,7.88,0.89,5.0
+205,Cai Fan,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.85,0.81,3.5
+206,Fishball Noodles,Rice & Noodles,Tampines Round Market,East,4.96,0.89,4.4
+207,Wanton Mee,Rice & Noodles,Jurong West Hawker Centre,West,3.87,1.1,4.6
+208,Kopi,Drinks,Marsiling Mall Hawker Centre,North,1.59,0.29,4.0
+209,Chicken Rice,Rice & Noodles,Bedok Interchange Hawker Centre,East,5.82,0.97,4.1
+210,Nasi Briyani,Indian Food,Jurong West Hawker Centre,West,6.05,1.0,4.1
+211,Fishball Noodles,Rice & Noodles,Fernvale Hawker Centre,North-East,4.75,1.11,3.3
+212,Milo Dinosaur,Drinks,Maxwell Food Centre,Central,4.46,0.61,4.0
+213,Chicken Rice,Rice & Noodles,Chong Pang Market,North,5.28,1.05,3.7
+214,Mee Rebus,Malay Food,Bedok Interchange Hawker Centre,East,2.7,1.07,2.0
+215,Fried Fish Set,Meat & Seafood,Fernvale Hawker Centre,North-East,6.86,0.79,3.5
+216,Laksa,Rice & Noodles,Jurong West Hawker Centre,West,4.69,1.4,3.9
+217,Mee Soto,Malay Food,Geylang Serai Market,East,4.69,0.82,3.8
+218,Economic Bee Hoon,Rice & Noodles,Bedok Interchange Hawker Centre,East,2.71,0.95,3.5
+219,Satay Set,Meat & Seafood,Fernvale Hawker Centre,North-East,6.87,0.98,4.0
+220,Wanton Mee,Rice & Noodles,Hong Lim Market,Central,4.2,0.81,4.5
+221,Roast Duck Rice,Meat & Seafood,Tampines Round Market,East,6.89,1.08,3.1
+222,Mee Rebus,Malay Food,Serangoon Garden Market,North-East,5.03,1.07,4.2
+223,Fresh Lime Juice,Drinks,Serangoon Garden Market,North-East,2.35,0.36,4.4
+224,Teh,Drinks,Chong Pang Market,North,2.97,0.69,3.8
+225,Teh,Drinks,Serangoon Garden Market,North-East,1.93,0.47,4.4
+226,Popiah,Snacks & Desserts,Amoy Street Food Centre,Central,2.38,0.93,4.2
+227,Bak Chor Mee,Rice & Noodles,Hong Lim Market,Central,6.29,0.93,4.3
+228,Fishball Noodles,Rice & Noodles,Marsiling Mall Hawker Centre,North,3.7,1.26,3.6
+229,Sugarcane Juice,Drinks,Bukit Panjang Hawker Centre,West,1.84,0.46,3.7
+230,Cai Fan,Rice & Noodles,Bedok Interchange Hawker Centre,East,5.3,1.06,4.1
+231,Chwee Kueh,Snacks & Desserts,Chong Pang Market,North,1.63,0.93,2.7
+232,Mee Goreng Indian,Indian Food,Bedok Interchange Hawker Centre,East,5.1,1.19,4.6
+233,Nasi Briyani,Indian Food,Yishun Park Hawker Centre,North,6.32,0.9,3.9
+234,Satay Bee Hoon,Malay Food,Jurong West Hawker Centre,West,5.14,1.15,4.3
+235,BBQ Chicken Rice,Meat & Seafood,Chong Pang Market,North,5.95,1.02,3.5
+236,Mee Goreng Indian,Indian Food,Bukit Timah Market,West,4.65,1.1,3.4
+237,Sugarcane Juice,Drinks,Bukit Timah Market,West,2.37,0.47,5.0
+238,Chwee Kueh,Snacks & Desserts,Tampines Round Market,East,4.06,1.03,4.1
+239,Roast Duck Rice,Meat & Seafood,Yishun Park Hawker Centre,North,6.4,1.26,3.6
+240,Mee Rebus,Malay Food,Chong Pang Market,North,4.08,0.99,3.3
+241,Thosai,Indian Food,Bedok Interchange Hawker Centre,East,3.05,0.96,3.3
+242,Kueh Platter,Snacks & Desserts,Amoy Street Food Centre,Central,2.81,0.84,4.0
+243,Chicken Rice,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.17,1.26,4.0
+244,Mee Soto,Malay Food,Bukit Timah Market,West,4.78,1.01,4.0
+245,Cai Fan,Rice & Noodles,Tampines Round Market,East,3.9,1.12,3.7
+246,Wanton Mee,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.56,1.14,4.0
+247,Chicken Rice,Rice & Noodles,Bukit Timah Market,West,4.46,1.28,4.2
+248,Fresh Lime Juice,Drinks,Hong Lim Market,Central,3.66,0.65,4.2
+249,Economic Bee Hoon,Rice & Noodles,Amoy Street Food Centre,Central,3.14,1.13,3.2
+250,Satay Bee Hoon,Malay Food,Bukit Panjang Hawker Centre,West,6.35,1.15,4.7
+251,Popiah,Snacks & Desserts,Bukit Timah Market,West,2.34,1.02,3.9
+252,Roti John,Indian Food,Bukit Timah Market,West,4.77,1.06,3.4
+253,Nasi Briyani,Indian Food,Maxwell Food Centre,Central,5.86,0.96,3.8
+254,Chicken Rice,Rice & Noodles,Yishun Park Hawker Centre,North,5.65,0.98,3.8
+255,Hokkien Mee,Rice & Noodles,Bukit Timah Market,West,4.83,0.88,4.7
+256,Tau Huay,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,2.89,1.01,3.9
+257,Economic Bee Hoon,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.67,0.58,2.8
+258,Carrot Cake,Snacks & Desserts,Bedok Interchange Hawker Centre,East,4.11,1.12,4.2
+259,Fish Soup,Meat & Seafood,Maxwell Food Centre,Central,7.02,1.03,4.4
+260,Mee Goreng,Rice & Noodles,Bukit Timah Market,West,4.64,1.13,4.0
+261,Mee Goreng,Rice & Noodles,Bukit Panjang Hawker Centre,West,3.41,0.74,3.2
+262,Fresh Lime Juice,Drinks,Hougang Hainanese Village Centre,North-East,2.38,0.2,3.4
+263,Chwee Kueh,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,4.22,0.93,3.7
+264,Tau Huay,Snacks & Desserts,Jurong West Hawker Centre,West,1.2,0.98,3.4
+265,Bak Chor Mee,Rice & Noodles,Bedok Interchange Hawker Centre,East,5.1,1.03,4.1
+266,Tau Huay,Snacks & Desserts,Amoy Street Food Centre,Central,1.49,1.15,3.5
+267,Kueh Platter,Snacks & Desserts,Amoy Street Food Centre,Central,2.96,0.94,4.1
+268,Chicken Rice,Rice & Noodles,Bedok Interchange Hawker Centre,East,4.51,1.28,4.5
+269,Kueh Platter,Snacks & Desserts,Jurong West Hawker Centre,West,4.76,1.35,3.2
+270,Hokkien Mee,Rice & Noodles,Chong Pang Market,North,5.97,0.81,3.2
+271,Fishball Noodles,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.48,0.88,3.5
+272,Mee Goreng,Rice & Noodles,Yishun Park Hawker Centre,North,4.43,1.41,4.1
+273,Sugarcane Juice,Drinks,Tampines Round Market,East,2.48,0.32,2.4
+274,Economic Bee Hoon,Rice & Noodles,Bedok Interchange Hawker Centre,East,2.42,0.6,3.2
+275,Economic Bee Hoon,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.34,1.07,4.3
+276,Carrot Cake,Snacks & Desserts,Serangoon Garden Market,North-East,4.39,1.13,3.6
+277,Fishball Noodles,Rice & Noodles,Fernvale Hawker Centre,North-East,4.19,0.8,3.2
+278,Tau Huay,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,1.2,1.02,4.1
+279,Ice Kachang,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,3.42,1.11,4.8
+280,Wanton Mee,Rice & Noodles,Geylang Serai Market,East,3.95,1.3,3.6
+281,Prata (2 pieces),Indian Food,Fernvale Hawker Centre,North-East,2.58,0.67,3.8
+282,Mee Soto,Malay Food,Bedok Interchange Hawker Centre,East,5.23,1.27,3.5
+283,Roast Duck Rice,Meat & Seafood,Tampines Round Market,East,6.19,1.14,3.9
+284,Mee Goreng Indian,Indian Food,Serangoon Garden Market,North-East,4.74,1.18,4.0
+285,Kopi,Drinks,Chong Pang Market,North,1.77,0.43,3.4
+286,Nasi Lemak,Malay Food,Bukit Panjang Hawker Centre,West,4.92,1.11,4.7
+287,Nasi Padang,Malay Food,Bukit Panjang Hawker Centre,West,6.24,0.89,3.9
+288,Satay Set,Meat & Seafood,Bedok Interchange Hawker Centre,East,8.15,1.07,3.8
+289,Fish Soup,Meat & Seafood,Bedok Interchange Hawker Centre,East,4.79,1.14,3.9
+290,Kueh Platter,Snacks & Desserts,Fernvale Hawker Centre,North-East,2.69,1.0,5.0
+291,Kueh Platter,Snacks & Desserts,Serangoon Garden Market,North-East,3.26,0.93,2.7
+292,Bak Chor Mee,Rice & Noodles,Yishun Park Hawker Centre,North,6.05,0.72,3.5
+293,Kueh Platter,Snacks & Desserts,Hong Lim Market,Central,3.88,0.62,4.2
+294,Mee Rebus,Malay Food,Hougang Hainanese Village Centre,North-East,4.39,0.55,3.4
+295,Teh,Drinks,Fernvale Hawker Centre,North-East,1.62,0.24,4.3
+296,Fried Fish Set,Meat & Seafood,Chong Pang Market,North,6.76,1.1,4.9
+297,Hokkien Mee,Rice & Noodles,Hong Lim Market,Central,4.38,1.21,3.5
+298,Nasi Briyani,Indian Food,Geylang Serai Market,East,6.09,0.72,4.0
+299,Nasi Lemak,Malay Food,Fernvale Hawker Centre,North-East,3.52,0.98,4.3
+300,Nasi Briyani,Indian Food,Hougang Hainanese Village Centre,North-East,5.35,1.16,4.0
+301,Cai Fan,Rice & Noodles,Jurong West Hawker Centre,West,5.1,1.12,5.0
+302,Fresh Lime Juice,Drinks,Jurong West Hawker Centre,West,1.98,0.53,4.1
+303,Economic Bee Hoon,Rice & Noodles,Hougang Hainanese Village Centre,North-East,5.05,1.06,3.5
+304,Fresh Lime Juice,Drinks,Serangoon Garden Market,North-East,2.48,0.4,4.2
+305,Carrot Cake,Snacks & Desserts,Bukit Panjang Hawker Centre,West,4.47,1.34,4.2
+306,Wanton Mee,Rice & Noodles,Tampines Round Market,East,4.27,0.93,3.8
+307,Ice Kachang,Snacks & Desserts,Fernvale Hawker Centre,North-East,1.92,1.16,3.7
+308,Hokkien Mee,Rice & Noodles,Serangoon Garden Market,North-East,4.32,1.24,4.6
+309,Wanton Mee,Rice & Noodles,Tampines Round Market,East,5.14,1.07,3.0
+310,Tau Huay,Snacks & Desserts,Bedok Interchange Hawker Centre,East,2.34,1.1,4.0
+311,Milo Dinosaur,Drinks,Bukit Timah Market,West,4.3,0.2,3.7
+312,Milo Dinosaur,Drinks,Jurong West Hawker Centre,West,2.36,0.47,4.6
+313,Chwee Kueh,Snacks & Desserts,Amoy Street Food Centre,Central,2.75,0.88,4.7
+314,Ice Kachang,Snacks & Desserts,Maxwell Food Centre,Central,3.65,0.66,4.9
+315,Tau Huay,Snacks & Desserts,Yishun Park Hawker Centre,North,2.37,0.75,4.6
+316,Nasi Briyani,Indian Food,Serangoon Garden Market,North-East,5.92,0.91,3.6
+317,Laksa,Rice & Noodles,Hougang Hainanese Village Centre,North-East,5.47,1.0,4.2
+318,Teh,Drinks,Fernvale Hawker Centre,North-East,3.3,0.2,4.6
+319,Wanton Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,5.95,1.18,4.4
+320,Fishball Noodles,Rice & Noodles,Jurong West Hawker Centre,West,4.36,0.96,4.1
+321,Mee Soto,Malay Food,Marsiling Mall Hawker Centre,North,3.91,1.15,4.4
+322,Nasi Padang,Malay Food,Geylang Serai Market,East,6.58,0.95,3.4
+323,Tau Huay,Snacks & Desserts,Amoy Street Food Centre,Central,2.5,0.98,3.7
+324,Roti John,Indian Food,Chong Pang Market,North,4.19,1.2,3.5
+325,Fresh Lime Juice,Drinks,Hong Lim Market,Central,3.79,0.42,4.1
+326,Mee Rebus,Malay Food,Fernvale Hawker Centre,North-East,5.54,0.94,3.6
+327,Popiah,Snacks & Desserts,Hong Lim Market,Central,2.78,0.93,4.7
+328,Tau Huay,Snacks & Desserts,Hougang Hainanese Village Centre,North-East,3.54,1.02,4.9
+329,Prata (2 pieces),Indian Food,Geylang Serai Market,East,2.43,0.85,4.2
+330,Satay Bee Hoon,Malay Food,Geylang Serai Market,East,5.63,0.77,3.2
+331,Mee Goreng Indian,Indian Food,Yishun Park Hawker Centre,North,5.07,1.2,3.9
+332,Chwee Kueh,Snacks & Desserts,Hong Lim Market,Central,3.23,0.97,5.0
+333,Fishball Noodles,Rice & Noodles,Bukit Panjang Hawker Centre,West,5.61,1.08,4.2
+334,Laksa,Rice & Noodles,Hong Lim Market,Central,5.56,1.14,3.5
+335,Carrot Cake,Snacks & Desserts,Chong Pang Market,North,4.21,1.03,3.6
+336,Roti John,Indian Food,Marsiling Mall Hawker Centre,North,4.6,0.81,3.7
+337,Prata (2 pieces),Indian Food,Serangoon Garden Market,North-East,2.1,1.13,3.3
+338,Ice Kachang,Snacks & Desserts,Fernvale Hawker Centre,North-East,2.64,1.24,4.1
+339,Cai Fan,Rice & Noodles,Hougang Hainanese Village Centre,North-East,3.48,0.99,5.0
+340,Satay Set,Meat & Seafood,Maxwell Food Centre,Central,7.39,1.1,4.4
+341,Kueh Platter,Snacks & Desserts,Chong Pang Market,North,3.64,0.87,4.6
+342,Cai Fan,Rice & Noodles,Tampines Round Market,East,3.64,0.77,2.4
+343,Prata (2 pieces),Indian Food,Bukit Panjang Hawker Centre,West,2.52,1.19,4.6
+344,Teh,Drinks,Bedok Interchange Hawker Centre,East,1.2,0.56,4.2
+345,Thosai,Indian Food,Fernvale Hawker Centre,North-East,2.29,1.36,3.4
+346,Mee Goreng Indian,Indian Food,Hong Lim Market,Central,4.25,0.83,4.7
+347,Wanton Mee,Rice & Noodles,Bukit Timah Market,West,4.65,0.98,4.7
+348,BBQ Chicken Rice,Meat & Seafood,Geylang Serai Market,East,4.44,0.86,4.2
+349,Economic Bee Hoon,Rice & Noodles,Maxwell Food Centre,Central,3.38,0.9,3.7
+350,Economic Bee Hoon,Rice & Noodles,Hong Lim Market,Central,3.44,0.87,4.3
+351,Cai Fan,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.55,1.03,3.5
+352,Bak Chor Mee,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.89,0.89,3.3
+353,Nasi Lemak,Malay Food,Marsiling Mall Hawker Centre,North,3.47,1.0,3.8
+354,Prata (2 pieces),Indian Food,Geylang Serai Market,East,2.89,0.74,3.2
+355,Satay Bee Hoon,Malay Food,Amoy Street Food Centre,Central,4.41,1.06,4.6
+356,Nasi Lemak,Malay Food,Jurong West Hawker Centre,West,4.86,0.87,3.8
+357,Fish Soup,Meat & Seafood,Bedok Interchange Hawker Centre,East,6.71,0.82,3.6
+358,Fried Fish Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,5.63,0.97,3.5
+359,Wanton Mee,Rice & Noodles,Bukit Timah Market,West,4.71,1.04,4.8
+360,Satay Set,Meat & Seafood,Bukit Panjang Hawker Centre,West,6.96,1.2,4.6
+361,Wanton Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,5.38,1.09,4.0
+362,Mee Goreng,Rice & Noodles,Chong Pang Market,North,4.75,1.05,3.8
+363,Wanton Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,4.06,1.1,5.0
+364,Wanton Mee,Rice & Noodles,Fernvale Hawker Centre,North-East,4.76,0.86,4.2
+365,Ice Kachang,Snacks & Desserts,Tampines Round Market,East,3.86,1.03,4.5
+366,Ice Kachang,Snacks & Desserts,Chong Pang Market,North,4.03,1.07,4.5
+367,Mee Goreng Indian,Indian Food,Marsiling Mall Hawker Centre,North,5.09,1.0,4.1
+368,Mee Soto,Malay Food,Hong Lim Market,Central,3.7,1.18,3.9
+369,Mee Goreng,Rice & Noodles,Fernvale Hawker Centre,North-East,5.38,0.57,4.3
+370,Chwee Kueh,Snacks & Desserts,Bukit Timah Market,West,3.03,0.98,4.5
+371,Kueh Platter,Snacks & Desserts,Chong Pang Market,North,3.17,1.23,4.2
+372,Ice Kachang,Snacks & Desserts,Chong Pang Market,North,2.85,0.72,4.1
+373,Thosai,Indian Food,Bukit Timah Market,West,3.08,1.43,3.3
+374,Popiah,Snacks & Desserts,Yishun Park Hawker Centre,North,3.67,1.21,3.5
+375,Mee Rebus,Malay Food,Hougang Hainanese Village Centre,North-East,4.73,0.87,3.9
+376,Kopi,Drinks,Geylang Serai Market,East,1.99,0.53,3.8
+377,Economic Bee Hoon,Rice & Noodles,Marsiling Mall Hawker Centre,North,3.74,0.87,3.7
+378,Mee Rebus,Malay Food,Serangoon Garden Market,North-East,3.88,0.9,4.6
+379,Roti John,Indian Food,Amoy Street Food Centre,Central,5.0,1.04,3.8
+380,Fish Soup,Meat & Seafood,Fernvale Hawker Centre,North-East,5.7,0.72,3.1
+381,Cai Fan,Rice & Noodles,Geylang Serai Market,East,4.09,1.07,3.6
+382,Kopi,Drinks,Bedok Interchange Hawker Centre,East,1.2,0.49,3.3
+383,Prata (2 pieces),Indian Food,Bedok Interchange Hawker Centre,East,1.39,1.04,4.9
+384,Mee Soto,Malay Food,Amoy Street Food Centre,Central,5.02,1.18,3.8
+385,Kueh Platter,Snacks & Desserts,Bukit Timah Market,West,3.92,0.98,3.3
+386,Fish Soup,Meat & Seafood,Hong Lim Market,Central,5.97,0.9,4.2
+387,Roast Duck Rice,Meat & Seafood,Marsiling Mall Hawker Centre,North,5.59,0.88,5.0
+388,Fishball Noodles,Rice & Noodles,Maxwell Food Centre,Central,4.91,0.83,3.6
+389,Fishball Noodles,Rice & Noodles,Bedok Interchange Hawker Centre,East,4.54,0.99,3.8
+390,Mee Soto,Malay Food,Bukit Panjang Hawker Centre,West,4.16,1.16,3.1
+391,Hokkien Mee,Rice & Noodles,Amoy Street Food Centre,Central,5.42,0.93,4.7
+392,Ice Kachang,Snacks & Desserts,Geylang Serai Market,East,2.25,1.12,3.5
+393,Kopi,Drinks,Hong Lim Market,Central,1.83,0.61,3.5
+394,Carrot Cake,Snacks & Desserts,Geylang Serai Market,East,3.67,0.9,4.5
+395,Fish Soup,Meat & Seafood,Serangoon Garden Market,North-East,7.52,0.81,3.9
+396,Mee Soto,Malay Food,Chong Pang Market,North,3.99,0.89,3.3
+397,Carrot Cake,Snacks & Desserts,Serangoon Garden Market,North-East,3.26,1.15,3.4
+398,Satay Set,Meat & Seafood,Bukit Panjang Hawker Centre,West,6.71,1.01,3.2
+399,Mee Goreng Indian,Indian Food,Serangoon Garden Market,North-East,5.24,0.76,4.0
+400,Mee Soto,Malay Food,Tampines Round Market,East,5.55,1.15,4.0
+401,Satay Bee Hoon,Malay Food,Hougang Hainanese Village Centre,North-East,6.0,1.22,4.5
+402,Sugarcane Juice,Drinks,Hougang Hainanese Village Centre,North-East,2.75,0.63,3.0
+403,Mee Rebus,Malay Food,Amoy Street Food Centre,Central,4.65,0.67,3.7
+404,Prata (2 pieces),Indian Food,Yishun Park Hawker Centre,North,2.7,0.9,3.7
+405,Satay Set,Meat & Seafood,Bedok Interchange Hawker Centre,East,6.9,0.93,4.0
+406,BBQ Chicken Rice,Meat & Seafood,Maxwell Food Centre,Central,6.16,1.0,3.9
+407,Roti John,Indian Food,Jurong West Hawker Centre,West,3.72,1.05,3.9
+408,Fresh Lime Juice,Drinks,Bedok Interchange Hawker Centre,East,2.3,0.57,4.4
+409,Fishball Noodles,Rice & Noodles,Hougang Hainanese Village Centre,North-East,3.18,1.14,4.6
+410,Nasi Padang,Malay Food,Yishun Park Hawker Centre,North,5.43,1.12,4.4
+411,Cai Fan,Rice & Noodles,Jurong West Hawker Centre,West,4.65,1.13,3.9
+412,Fresh Lime Juice,Drinks,Maxwell Food Centre,Central,3.12,0.55,3.9
+413,Nasi Lemak,Malay Food,Tampines Round Market,East,5.56,0.84,3.6
+414,Satay Set,Meat & Seafood,Serangoon Garden Market,North-East,7.62,0.73,3.2
+415,Hokkien Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,4.27,0.93,4.3
+416,Carrot Cake,Snacks & Desserts,Maxwell Food Centre,Central,4.5,0.95,4.3
+417,Chicken Rice,Rice & Noodles,Hong Lim Market,Central,4.74,1.19,4.1
+418,Nasi Lemak,Malay Food,Hougang Hainanese Village Centre,North-East,4.98,0.8,4.7
+419,Thosai,Indian Food,Jurong West Hawker Centre,West,3.1,0.96,4.3
+420,Teh,Drinks,Yishun Park Hawker Centre,North,1.95,0.61,3.6
+421,Laksa,Rice & Noodles,Bedok Interchange Hawker Centre,East,4.41,0.67,4.3
+422,Mee Rebus,Malay Food,Jurong West Hawker Centre,West,5.43,0.71,4.3
+423,Fishball Noodles,Rice & Noodles,Yishun Park Hawker Centre,North,4.57,0.64,4.0
+424,Popiah,Snacks & Desserts,Yishun Park Hawker Centre,North,2.63,0.72,4.2
+425,Char Kway Teow,Rice & Noodles,Hong Lim Market,Central,4.61,0.61,3.8
+426,Roti John,Indian Food,Bukit Timah Market,West,3.99,1.08,3.7
+427,Laksa,Rice & Noodles,Jurong West Hawker Centre,West,5.7,1.11,3.8
+428,Sugarcane Juice,Drinks,Chong Pang Market,North,1.75,0.46,4.0
+429,Popiah,Snacks & Desserts,Bukit Timah Market,West,1.99,1.09,4.2
+430,Teh,Drinks,Hong Lim Market,Central,2.92,0.2,3.6
+431,Mee Soto,Malay Food,Hougang Hainanese Village Centre,North-East,3.6,0.8,4.5
+432,Laksa,Rice & Noodles,Hong Lim Market,Central,6.08,0.99,3.2
+433,Sugarcane Juice,Drinks,Bukit Timah Market,West,3.06,0.58,3.0
+434,Chwee Kueh,Snacks & Desserts,Tampines Round Market,East,2.54,1.23,3.2
+435,Milo Dinosaur,Drinks,Jurong West Hawker Centre,West,2.74,0.33,3.5
+436,Fried Fish Set,Meat & Seafood,Fernvale Hawker Centre,North-East,6.61,0.78,2.7
+437,Mee Goreng Indian,Indian Food,Amoy Street Food Centre,Central,4.86,0.84,3.4
+438,Fishball Noodles,Rice & Noodles,Hougang Hainanese Village Centre,North-East,4.59,1.04,2.9
+439,Chicken Rice,Rice & Noodles,Bukit Panjang Hawker Centre,West,3.83,1.16,3.2
+440,Nasi Briyani,Indian Food,Yishun Park Hawker Centre,North,5.62,1.03,3.5
+441,Roast Duck Rice,Meat & Seafood,Maxwell Food Centre,Central,6.37,1.09,4.0
+442,Laksa,Rice & Noodles,Serangoon Garden Market,North-East,4.77,1.14,3.8
+443,Bak Chor Mee,Rice & Noodles,Yishun Park Hawker Centre,North,6.6,0.76,4.3
+444,Char Kway Teow,Rice & Noodles,Bedok Interchange Hawker Centre,East,5.24,1.28,4.2
+445,BBQ Chicken Rice,Meat & Seafood,Chong Pang Market,North,5.52,0.95,3.5
+446,Tau Huay,Snacks & Desserts,Maxwell Food Centre,Central,2.48,0.86,3.5
+447,Chwee Kueh,Snacks & Desserts,Maxwell Food Centre,Central,3.7,1.04,4.4
+448,Ice Kachang,Snacks & Desserts,Chong Pang Market,North,3.25,1.05,3.8
+449,Bak Chor Mee,Rice & Noodles,Bukit Panjang Hawker Centre,West,5.21,0.88,4.1
+450,Fresh Lime Juice,Drinks,Serangoon Garden Market,North-East,1.64,0.65,3.8
+451,Hokkien Mee,Rice & Noodles,Serangoon Garden Market,North-East,5.46,0.77,4.9
+452,Kueh Platter,Snacks & Desserts,Yishun Park Hawker Centre,North,3.49,1.29,4.0
+453,Ice Kachang,Snacks & Desserts,Serangoon Garden Market,North-East,3.43,1.09,3.9
+454,Fishball Noodles,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.58,0.99,3.2
+455,Laksa,Rice & Noodles,Serangoon Garden Market,North-East,3.36,1.04,3.6
+456,Roast Duck Rice,Meat & Seafood,Bukit Panjang Hawker Centre,West,6.18,1.12,3.7
+457,Satay Set,Meat & Seafood,Yishun Park Hawker Centre,North,6.7,1.18,3.4
+458,Economic Bee Hoon,Rice & Noodles,Marsiling Mall Hawker Centre,North,4.1,1.12,5.0
+459,Thosai,Indian Food,Hougang Hainanese Village Centre,North-East,2.4,1.12,4.2
+460,Fried Fish Set,Meat & Seafood,Hong Lim Market,Central,6.12,1.14,3.2
+461,Mee Goreng Indian,Indian Food,Hong Lim Market,Central,5.59,1.1,3.6
+462,Cai Fan,Rice & Noodles,Yishun Park Hawker Centre,North,4.41,0.8,3.1
+463,Roti John,Indian Food,Yishun Park Hawker Centre,North,5.25,0.94,3.8
+464,Laksa,Rice & Noodles,Hougang Hainanese Village Centre,North-East,5.03,1.1,3.8
+465,Bak Chor Mee,Rice & Noodles,Hong Lim Market,Central,4.56,0.95,3.9
+466,Fishball Noodles,Rice & Noodles,Marsiling Mall Hawker Centre,North,4.48,1.01,2.7
+467,Fish Soup,Meat & Seafood,Marsiling Mall Hawker Centre,North,6.25,0.79,4.0
+468,Fishball Noodles,Rice & Noodles,Fernvale Hawker Centre,North-East,5.06,0.98,3.6
+469,Sugarcane Juice,Drinks,Marsiling Mall Hawker Centre,North,2.63,0.56,4.0
+470,Carrot Cake,Snacks & Desserts,Amoy Street Food Centre,Central,4.41,1.14,4.4
+471,Hokkien Mee,Rice & Noodles,Jurong West Hawker Centre,West,6.0,1.05,3.0
+472,Fishball Noodles,Rice & Noodles,Yishun Park Hawker Centre,North,5.0,0.95,3.6
+473,Ice Kachang,Snacks & Desserts,Tampines Round Market,East,2.58,1.04,4.1
+474,Kueh Platter,Snacks & Desserts,Bukit Timah Market,West,4.09,1.04,4.2
+475,Kueh Platter,Snacks & Desserts,Serangoon Garden Market,North-East,3.62,1.04,4.3
+476,Kopi,Drinks,Bedok Interchange Hawker Centre,East,1.93,0.3,3.9
+477,Fried Fish Set,Meat & Seafood,Serangoon Garden Market,North-East,7.98,0.91,4.1
+478,Laksa,Rice & Noodles,Fernvale Hawker Centre,North-East,5.11,1.42,3.7
+479,Roti John,Indian Food,Jurong West Hawker Centre,West,4.77,1.04,4.4
+480,Kueh Platter,Snacks & Desserts,Chong Pang Market,North,4.32,0.98,3.7
+481,Sugarcane Juice,Drinks,Amoy Street Food Centre,Central,2.38,0.33,3.4
+482,Nasi Lemak,Malay Food,Hong Lim Market,Central,4.61,1.02,3.9
+483,Hokkien Mee,Rice & Noodles,Tampines Round Market,East,4.4,1.04,4.2
+484,Wanton Mee,Rice & Noodles,Marsiling Mall Hawker Centre,North,3.97,1.12,3.5
+485,Thosai,Indian Food,Hong Lim Market,Central,4.2,1.11,4.2
+486,Fishball Noodles,Rice & Noodles,Bukit Timah Market,West,6.33,0.69,3.5
+487,Fish Soup,Meat & Seafood,Marsiling Mall Hawker Centre,North,5.3,0.95,3.2
+488,Fish Soup,Meat & Seafood,Fernvale Hawker Centre,North-East,6.08,1.09,4.2
+489,Mee Rebus,Malay Food,Maxwell Food Centre,Central,6.23,1.04,2.9
+490,Nasi Padang,Malay Food,Geylang Serai Market,East,4.97,1.0,3.8
+491,Kueh Platter,Snacks & Desserts,Chong Pang Market,North,3.86,1.13,3.4
+492,Fried Fish Set,Meat & Seafood,Hougang Hainanese Village Centre,North-East,6.57,1.03,2.9
+493,Popiah,Snacks & Desserts,Marsiling Mall Hawker Centre,North,2.36,0.85,3.6
+494,Mee Soto,Malay Food,Bukit Panjang Hawker Centre,West,4.56,1.11,4.5
+495,Roast Duck Rice,Meat & Seafood,Serangoon Garden Market,North-East,6.83,1.11,3.7
+496,Teh,Drinks,Bukit Panjang Hawker Centre,West,2.44,0.68,4.9
+497,Prata (2 pieces),Indian Food,Serangoon Garden Market,North-East,2.86,0.98,3.5
+498,Wanton Mee,Rice & Noodles,Bukit Panjang Hawker Centre,West,4.56,0.86,3.9
+499,Mee Rebus,Malay Food,Jurong West Hawker Centre,West,4.65,1.03,4.2
+500,Kopi,Drinks,Hong Lim Market,Central,2.33,0.54,3.3
