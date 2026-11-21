@@ -14,4 +14,6 @@ TBC
 1. Python
 2. Google Data Studio
 
+Important: This is entirely synthetic data. The hawker centre names are based on real locations, but the prices, ratings and portion sizes are artificially generated. Do not interpret the results as actual Singapore hawker market statistics.
+
 ## References
