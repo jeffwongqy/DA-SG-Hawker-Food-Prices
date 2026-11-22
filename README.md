@@ -14,31 +14,31 @@ Hawker centres are an essential part of Singapore's food culture, offering a wid
 
 Meat & Seafood averages about 6.5 SGD, which is more than double the average price of Drinks at roughly 2.6 SGD and noticeably higher than Malay Food or Rice & Noodles at around 4.8 SGD. This means businesses can use affordable rice, noodles, and drinks to attract daily budget-conscious customers, while relying on premium meat and seafood dishes—or drink add-ons—to boost overall revenue and profit margins.
 
-#### 2. Which hawker dishes are the most and least expensive?
+### 2. Which hawker dishes are the most and least expensive?
 
 <img width="1051" height="495" alt="BQ2" src="https://github.com/user-attachments/assets/202cf1b5-1a1b-4428-8403-ff3c1560b05a" />
 
 Satay Set is the highest-priced item at 7.0 SGD, which is 3.5 times more expensive than Kopi at about 2.0 SGD, while everyday main meals like Chicken Rice and Wanton Mee sit in the middle at roughly 4.6 SGD. This means hawker stalls can rely on mid-priced main meals for steady daily sales volume, while bundling high-margin items like Satay Sets with low-cost drinks like Kopi or Teh to boost average customer spending.
 
-#### 3. What is the most common food category in the dataset?
+### 3. What is the most common food category in the dataset?
 
 <img width="989" height="494" alt="BQ3" src="https://github.com/user-attachments/assets/f616ad5d-d326-4d07-86c8-5ea00a3aaac7" />
 
 Rice & Noodles leads the market with 150 samples, which is roughly 2.6 times higher than Meat & Seafood (58 samples) and Malay Food (57 samples), and noticeably ahead of Snacks & Desserts (89 samples). This means businesses should ensure strong supply chains and high stall capacity for staple rice and noodle dishes to capture the largest customer demand, while using less common categories like Malay Food or Meat & Seafood to stand out from heavy competition.
 
-#### 4. What is the distribution of hawker food prices?
+### 4. What is the distribution of hawker food prices?
 
 <img width="1103" height="495" alt="BQ4" src="https://github.com/user-attachments/assets/e656ed8e-3a8b-4b94-89ce-7ea42c30474a" />
 
 Hawker food prices peak sharply at around 4.7 SGD (47 samples), compared to very few items priced above 7.0 SGD (only 2 to 3 samples per price bracket) or below 2.0 SGD (9 to 12 samples). This means businesses should price core menu items between 4.0 and 5.5 SGD to match mainstream customer expectations, while keeping prices under 7.0 SGD unless offering premium dishes to avoid losing price-sensitive diners.
 
-#### 5. Is there a relationship between portion size and food price?
+### 5. Is there a relationship between portion size and food price?
 
 <img width="989" height="495" alt="BQ5" src="https://github.com/user-attachments/assets/a772d20d-5f94-4b7e-baf0-ee1bb56bdedd" />
 
 Portion size has only a weak positive link to price ($r = 0.35$), as dishes with a similar portion index around 1.0 vary widely from roughly 1.2 SGD to over 8.0 SGD compared to smaller portions below 0.5 that mostly stay under 5.0 SGD. This means hawker stalls do not need to serve oversized portions to charge higher prices, and can instead boost profits by focusing on premium ingredients, dish quality, or popular recipes rather than simply increasing food quantity.
 
-#### 6. Which Singapore region has the highest average hawker food prices?
+### 6. Which Singapore region has the highest average hawker food prices?
 
 <img width="989" height="495" alt="BQ6" src="https://github.com/user-attachments/assets/76a261a6-9028-41dd-b428-8560f9eca05e" />
 
