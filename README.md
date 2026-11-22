@@ -8,7 +8,7 @@
 Hawker centres are an essential part of Singapore's food culture, offering a wide variety of affordable local dishes to residents and visitors. However, food prices may vary depending on factors such as food category, location, portion size and customer preferences. Understanding these price differences can provide useful insights into the affordability and pricing patterns of hawker food across Singapore. This project aims to analyse a synthetic dataset of 500 hawker food records to explore price variations across different food categories and regions. Using descriptive statistics and data visualisation techniques, such as bar charts, pie charts, histograms and scatterplots, the analysis will identify pricing patterns, compare average food prices and examine the relationship between portion size and price. The findings aim to provide a clearer understanding of hawker food pricing in Singapore.
 
 ## Analysis Questions
-#### 1. Which food category has the highest average price?
+### 1. Which food category has the highest average price?
 
 <img width="989" height="494" alt="BQ1" src="https://github.com/user-attachments/assets/0d8749f3-fdf6-44ba-8d82-cf2760ac577c" />
 
