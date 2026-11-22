@@ -2,6 +2,7 @@
 
 <img width="1600" height="1000" alt="hawker_pic" src="https://github.com/user-attachments/assets/462e4511-b37f-413a-af6c-7a4da8c096da" />
 
+
 **Important:** This is entirely synthetic data. The hawker centre names are based on real locations, but the prices, ratings and portion sizes are artificially generated. Do not interpret the results as actual Singapore hawker market statistics.
 
 ## Analysis Questions
