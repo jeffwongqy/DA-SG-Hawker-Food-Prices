@@ -2,7 +2,8 @@
 
 **Important:** This is entirely synthetic data. The hawker centre names are based on real locations, but the prices, ratings and portion sizes are artificially generated. Do not interpret the results as actual Singapore hawker market statistics.
 
-<img width="1600" height="1000" alt="hawker_pic" src="https://github.com/user-attachments/assets/462e4511-b37f-413a-af6c-7a4da8c096da" />
+<img width="1600" height="901" alt="hawker centre" src="https://github.com/user-attachments/assets/5cfc8156-3dd1-4bde-ab35-51deb749d2a0" />
+
 
 ## Introduction 
 Hawker centres are an essential part of Singapore's food culture, offering a wide variety of affordable local dishes to residents and visitors. However, food prices may vary depending on factors such as food category, location, portion size and customer preferences. Understanding these price differences can provide useful insights into the affordability and pricing patterns of hawker food across Singapore. This project aims to analyse a synthetic dataset of 500 hawker food records to explore price variations across different food categories and regions. Using descriptive statistics and data visualisation techniques, such as bar charts, pie charts, histograms and scatterplots, the analysis will identify pricing patterns, compare average food prices and examine the relationship between portion size and price. The findings aim to provide a clearer understanding of hawker food pricing in Singapore.
