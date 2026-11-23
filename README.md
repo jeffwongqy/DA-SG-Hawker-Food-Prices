@@ -56,7 +56,5 @@ Here is the link to visit the Google Dashboard: https://datastudio.google.com/re
 Overall, Singapore’s hawker food market is heavily driven by affordable, everyday staples rather than portion size or location. Rice & Noodles is the most common category at 150 samples, and most dishes cluster between 4.0 and 5.5 SGD, peaking at 4.7 SGD. While Meat & Seafood averages the highest at 6.5 SGD—led by Satay Set at 7.0 SGD—portion size has only a weak impact on price ($r = 0.35$). Furthermore, average prices stay nearly identical across all regions, ranging only from about 4.2 SGD in the East to 4.5 SGD in the Central region. To maximize profits, hawker operators should maintain a consistent island-wide pricing strategy anchored around 4.5 SGD, rely on high-demand rice and noodle staples for steady volume, and boost margins through quality ingredients and drink add-ons rather than oversized portions.
 
 ## Tools
-1. Python
+1. Python Jupyter Notebook 
 2. Google Data Studio
-
-## References
