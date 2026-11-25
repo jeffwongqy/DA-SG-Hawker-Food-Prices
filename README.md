@@ -45,15 +45,16 @@ Portion size has only a weak positive link to price ($r = 0.35$), as dishes with
 
 Average hawker food prices stay very consistent across Singapore, with the Central region being the highest at roughly 4.5 SGD—only about 0.3 SGD more expensive than the cheapest region, the East, at roughly 4.2 SGD. This means hawker operators can apply a nearly uniform pricing strategy island-wide, while slightly raising menu prices in the Central region to offset higher commercial rents without losing price-sensitive customers.
 
-## Google Dashboard 
+## Conclusion
+Overall, Singapore’s hawker food market is heavily driven by affordable, everyday staples rather than portion size or location. Rice & Noodles is the most common category at 150 samples, and most dishes cluster between 4.0 and 5.5 SGD, peaking at 4.7 SGD. While Meat & Seafood averages the highest at 6.5 SGD—led by Satay Set at 7.0 SGD—portion size has only a weak impact on price ($r = 0.35$). Furthermore, average prices stay nearly identical across all regions, ranging only from about 4.2 SGD in the East to 4.5 SGD in the Central region. To maximize profits, hawker operators should maintain a consistent island-wide pricing strategy anchored around 4.5 SGD, rely on high-demand rice and noodle staples for steady volume, and boost margins through quality ingredients and drink add-ons rather than oversized portions.
+
+## Google Interactive Dashboard 
 
 <img width="1515" height="786" alt="google dashboard" src="https://github.com/user-attachments/assets/9511cb7d-a38b-42b4-bcc2-32dc97782d0e" />
 
 Here is the link to visit the Google Dashboard: https://datastudio.google.com/reporting/f65edf71-f360-4931-9b1a-360a1b823b3b 
 
 
-## Conclusion
-Overall, Singapore’s hawker food market is heavily driven by affordable, everyday staples rather than portion size or location. Rice & Noodles is the most common category at 150 samples, and most dishes cluster between 4.0 and 5.5 SGD, peaking at 4.7 SGD. While Meat & Seafood averages the highest at 6.5 SGD—led by Satay Set at 7.0 SGD—portion size has only a weak impact on price ($r = 0.35$). Furthermore, average prices stay nearly identical across all regions, ranging only from about 4.2 SGD in the East to 4.5 SGD in the Central region. To maximize profits, hawker operators should maintain a consistent island-wide pricing strategy anchored around 4.5 SGD, rely on high-demand rice and noodle staples for steady volume, and boost margins through quality ingredients and drink add-ons rather than oversized portions.
 
 ## Tools
 1. Python Jupyter Notebook 
